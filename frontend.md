@@ -17,7 +17,7 @@ Beranda adalah halaman pertama yang menyapa pengunjung dengan elemen visual memi
 - **Menu Header**: Blok berisi menu menu custom yang bisa disesuaikan di admin.
 - **Menu Footer**: Blok berisi menu menu Footer yang dinamis bisa disesuaikan di admin.
 
-![Menu Beranda](Img/frontend/screencapture-127-0-0-1-8000-2026-06-16-17_40_08.pngberanda.png)
+![Menu Beranda](Img/frontend/screencapture-127-0-0-1-8000-2026-06-16-17_40_08.png)
 ![Menu Beranda](Img/frontend/iPhone-13-PRO-127.0.0.1.png)
 
 ---
