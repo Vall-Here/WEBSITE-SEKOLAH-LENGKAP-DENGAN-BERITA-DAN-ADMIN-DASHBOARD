@@ -2,8 +2,6 @@
 
 Pilih skema investasi pengadaan Sistem Informasi Manajemen Sekolah yang paling relevan dengan kapasitas institusi Anda. Kami mendesain tiga tingkat (*tiering*) penawaran yang transparan berdasarkan aktivasi fitur teknis yang telah dijabarkan di panduan Frontend dan Backend sebelumnya.
 
-![Pricing Banner](assets/img/pricing.png)
-
 <div class="grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;">
 
 <!-- Paket Basic -->
