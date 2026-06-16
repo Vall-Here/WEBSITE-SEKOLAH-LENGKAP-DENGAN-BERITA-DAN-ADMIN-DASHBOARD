@@ -1,7 +1,3 @@
----
-layout: default
-title: Dokumentasi Produk
----
 
 # 📖 CMS Sekolah Pro - Katalog Fitur & Dokumentasi
 
