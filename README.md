@@ -26,15 +26,11 @@ Sistem ini difokuskan untuk membantu institusi pendidikan memamerkan fasilitas, 
 
 ### 1. Desain Front-End Publik yang Memukau
 Halaman publik website didesain eksklusif dengan nuansa modern, efek *glassmorphism*, tipografi indah, dan sentuhan animasi interaktif yang dinamis. Ini adalah citra kelas atas bagi sekolah Anda.
-![Screenshot Halaman Beranda / Front-End](insert_frontend_screenshot_here.png)
+![Screenshot Halaman Beranda / Front-End](Img/frontend/screencapture-127-0-0-1-8000-2026-06-16-17_40_08.png)
 
 ### 2. Dashboard Admin Ultra-Modern
 Antarmuka manajemen didesain dengan konsep elegan dan responsif. Memiliki panel analitik yang lengkap dan navigasi sidebar yang intuitif.
-![Screenshot Dashboard Admin](insert_dashboard_screenshot_here.png)
-
-### 3. No-Code Pods Engine (Sistem Shortcode)
-Kemudahan mengelola modul dinamis hanya dengan memasukkan *shortcode* khusus seperti `[pod:buku-tamu]` di dalam artikel Anda.
-![Screenshot Integrasi Custom Pods](insert_pods_screenshot_here.png)
+![Screenshot Dashboard Admin](Img/Backend/screencapture-127-0-0-1-8000-admin-dashboard-2026-06-16-17_51_15.png)
 
 ---
 
