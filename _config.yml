@@ -1,0 +1,5 @@
+title: CMS Sekolah Pro
+description: Sistem Informasi Manajemen & Website Portal Pendidikan Kelas Premium
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
