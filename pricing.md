@@ -18,7 +18,7 @@ Pilih skema investasi pengadaan Sistem Informasi Manajemen Sekolah yang paling r
     <li style="margin-bottom: 0.5rem">✔️ Bisa Ajukan Custom Tampilan Halaman yang sudah ada (Warna, Tata Letak dst)</li>
     <li style="margin-bottom: 0.5rem">✔️ Bantuan Instalasi Website Hingga Online (Diluar Biaya Hosting dan Domain)</li>
     <li style="margin-bottom: 0.5rem">❌ Tidak Ada Bantuan Maintenance Setelah selesai</li>
-    <li style="margin-bottom: 0.5rem">❌ Tidak Bisa Meambah Halaman Baru (Hanya permintaan)</li>
+    <li style="margin-bottom: 0.5rem">❌ Tidak Bisa Menambah Halaman Baru (Hanya permintaan Mengubah Halaman yang sudah ada)</li>
   </ul>
 </div>
 
