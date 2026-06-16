@@ -111,7 +111,7 @@ Fitur paling *powerful* dari CMS ini! Fitur pembuat Database Mandiri tanpa *Codi
 - Tambah *Field*: "Nama Siswa" (Text), "Tanggal Juara" (Date), "Foto Trofi" (Image).
 - **Boom!** CMS otomatis merakit form pendaftaran baru dan tabel data untuk entitas tersebut di panel admin Anda!
 
-![Custom Pods](Img/Backend/screencapture-127-0-0-1-8000-admin-pods-2026-06-16-17_56_39.png.png)
+![Custom Pods](Img/Backend/screencapture-127-0-0-1-8000-admin-pods-2026-06-16-17_56_39.png)
 
 ---
 
