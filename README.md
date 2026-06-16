@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>🌟 Vall-Here CMS Sekolah Modern 🌟</h1>
+  <h1>🌟 CMS Sekolah Modern 🌟</h1>
   <p><strong>Platform Manajemen Sekolah Terpadu dengan Desain Ultra-Premium & Fitur No-Code Builder</strong></p>
   
   [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 Kenapa Memilih Vall-Here CMS?
+## 🚀 Kenapa Memilih CMS Sekolah Modern?
 
-Vall-Here CMS bukan sekadar website sekolah biasa. Ini adalah **Platform Profil dan Manajemen Terpadu** yang dirancang dengan memadukan keindahan antarmuka (*UI/UX Premium*) dan kecanggihan teknologi (*Laravel + TailwindCSS*). 
+CMS ini bukan sekadar website sekolah biasa. Ini adalah **Platform Profil dan Manajemen Terpadu** yang dirancang dengan memadukan keindahan antarmuka (*UI/UX Premium*) dan kecanggihan teknologi (*Laravel + TailwindCSS*). 
 
 Sistem ini difokuskan untuk membantu institusi pendidikan memamerkan fasilitas, prestasi, hingga penerimaan siswa baru dengan sangat mudah tanpa memerlukan latar belakang koding (*No-Code Ready*).
 
